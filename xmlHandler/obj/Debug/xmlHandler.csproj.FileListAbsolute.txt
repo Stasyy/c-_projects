@@ -1,0 +1,10 @@
+C:\Users\Abdulqadir\source\repos\xmlHandler\xmlHandler\bin\Debug\xmlHandler.exe.config
+C:\Users\Abdulqadir\source\repos\xmlHandler\xmlHandler\bin\Debug\xmlHandler.exe
+C:\Users\Abdulqadir\source\repos\xmlHandler\xmlHandler\bin\Debug\xmlHandler.pdb
+C:\Users\Abdulqadir\source\repos\xmlHandler\xmlHandler\obj\Debug\xmlHandler.csprojAssemblyReference.cache
+C:\Users\Abdulqadir\source\repos\xmlHandler\xmlHandler\obj\Debug\xmlHandler.Form1.resources
+C:\Users\Abdulqadir\source\repos\xmlHandler\xmlHandler\obj\Debug\xmlHandler.Properties.Resources.resources
+C:\Users\Abdulqadir\source\repos\xmlHandler\xmlHandler\obj\Debug\xmlHandler.csproj.GenerateResource.cache
+C:\Users\Abdulqadir\source\repos\xmlHandler\xmlHandler\obj\Debug\xmlHandler.csproj.CoreCompileInputs.cache
+C:\Users\Abdulqadir\source\repos\xmlHandler\xmlHandler\obj\Debug\xmlHandler.exe
+C:\Users\Abdulqadir\source\repos\xmlHandler\xmlHandler\obj\Debug\xmlHandler.pdb
